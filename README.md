@@ -1,10 +1,15 @@
 Company: CODTECH IT SOLUTIONS
 
 Intern Name: Aditya Maheshwari
+
 Intern ID: :CT06DN848
+
 Domain: Full Stack Web Development
+
 Duration: 6 Weeks
+
 Mentor: Neela Santosh
+
  ChatApp 🚀
 
 Secure, multi‑threaded chat application with end‑to‑end encryption, built as part of my internship (Task 2 of 4).
